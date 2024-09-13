@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Gourav078/Gourav078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate # 💫 About Me:
+# 💫 About Me:
 A Team player and curious person with a problem-solving Ability. <br>Optimistic and introvert in nature, dedicated to provide utmost service to my employer.<br>
 
 
@@ -30,10 +21,4 @@ A Team player and curious person with a problem-solving Ability. <br>Optimistic 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gourav078&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
